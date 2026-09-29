@@ -64,32 +64,21 @@
 
 ---
 
-<br/><br/>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurstudart-lima/arthurstudart-lima/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurstudart-lima/arthurstudart-lima/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arthurstudart-lima/arthurstudart-lima/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
 
-## Statistics
+###
 
-<div align="center">
+<p data-importer="text" align="center">Hello World!!</p>
 
-<img 
-  width="300" 
-  height="200" 
-  alt="GitHub Statistics" 
-  src="https://github-readme-stats.vercel.app/api?username=arthurstudart-lima&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=2a2a2a"
-/>
+###
 
-<img 
-  src="https://streak-stats.demolab.com?user=arthurstudart-lima&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" 
-  alt="GitHub Streak"
-/>
-
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=arthurstudart-lima&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/arthurstudart-lima/arthurstudart-lima/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5&custom_title=My%20activity&hide_border=true&hide_title=false" height="100" alt="activity-graph graph"  />
 </div>
 
----
-
-## Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arthurstudart-lima&bg_color=0d0d0d&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&border_color=2a2a2a&title_color=FFFFFF)
-
-</div>
+###
