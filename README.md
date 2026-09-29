@@ -52,16 +52,22 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
-![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=FFFFFF)
-![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=FFFFFF)
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=FFFFFF)
 
 </div>
 
+###
+## My Activity
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=arthurstudart-lima&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+<br>
+  <img src="https://raw.githubusercontent.com/arthurstudart-lima/arthurstudart-lima/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5&custom_title=My%20activity&hide_border=true&hide_title=false" height="200" alt="activity-graph graph"  />
+</div>
+
+###
 ---
 
 <picture data-importer="pacman">
@@ -69,16 +75,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurstudart-lima/arthurstudart-lima/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arthurstudart-lima/arthurstudart-lima/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
-
-###
-
-<p data-importer="text" align="center">Hello World!!</p>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=arthurstudart-lima&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/arthurstudart-lima/arthurstudart-lima/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5&custom_title=My%20activity&hide_border=true&hide_title=false" height="100" alt="activity-graph graph"  />
-</div>
 
 ###
